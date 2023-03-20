@@ -1,7 +1,7 @@
-# Tauri + Svelte + Typescript
+# Virtune - No nonsense music player
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+Virtune is the music player experience like you never experienced it.
 
-## Recommended IDE Setup
+### With its **Rust** core it's blazingly fast. :rocket:
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+### And with its **Typescript** and **Svelte** frontend it's cross platform. :computer: :iphone:
